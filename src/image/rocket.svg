@@ -1,0 +1,20 @@
+<svg width="88" height="88" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="24.921%" y2="50%" id="06r6xpnfga">
+            <stop stop-color="#005348" offset="0%"/>
+            <stop stop-color="#00C2DB" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="24.921%" y2="50%" id="5q32yi0fsb">
+            <stop stop-color="#00C2DB" offset="0%"/>
+            <stop stop-color="#005348" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g transform="rotate(45 18.823 49.837)" stroke="#FFF" stroke-width=".715" fill="none" fill-rule="evenodd">
+        <rect stroke-linecap="round" x="43.865" y="18.533" width="3.235" height="10.901" rx="1.617"/>
+        <rect stroke-linecap="round" x="17.792" y="18.533" width="3.235" height="10.901" rx="1.617"/>
+        <path d="M27.593 37.787V7.461C28.283 2.487 29.888 0 32.407 0c2.518 0 4.148 2.487 4.89 7.46h0v30.317c0 .443-.068.883-.201 1.306l-4.17 13.175a.54.54 0 0 1-1.032-.003L27.79 39.074a4.327 4.327 0 0 1-.196-1.287z" stroke-linecap="round"/>
+        <path d="M27.593 33.08 8.817 36.085a2.163 2.163 0 0 1-1.623-3.88l20.399-15V33.08z" fill="url(#06r6xpnfga)"/>
+        <path d="m64.9 33.08-18.775 3.005a2.163 2.163 0 0 1-1.624-3.88l20.399-15V33.08z" fill="url(#5q32yi0fsb)" transform="matrix(-1 0 0 1 102.207 0)"/>
+        <path d="m28.867 42.516-7.506 4.058a2.163 2.163 0 0 0-1.045 2.516l.004.014a1.977 1.977 0 0 0 2.24 1.386l8.334-1.477h0l-2.027-6.497zM35.994 42.516l7.505 4.058a2.163 2.163 0 0 1 1.046 2.516l-.004.014A1.977 1.977 0 0 1 42.3 50.49l-8.334-1.477h0l2.028-6.497zM32.446 12.789v15.262M27.593 7.46c1.931-1.436 3.549-2.155 4.852-2.155 1.304 0 2.921.673 4.852 2.02" stroke-linecap="round"/>
+    </g>
+</svg>

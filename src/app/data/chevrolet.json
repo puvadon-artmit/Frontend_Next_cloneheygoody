@@ -1,0 +1,2034 @@
+
+{
+    "CHEVROLET": [
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.6"
+                },
+                {
+                    "sub_model": "AVEO LS 1.6"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.6"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO Base 1.6"
+                },
+                {
+                    "sub_model": "AVEO LS 1.4"
+                },
+                {
+                    "sub_model": "AVEO LS 1.6"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.6"
+                },
+                {
+                    "sub_model": "AVEO LT 1.6"
+                },
+                {
+                    "sub_model": "AVEO SS 1.6"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO Base 1.6"
+                },
+                {
+                    "sub_model": "AVEO LS 1.4"
+                },
+                {
+                    "sub_model": "AVEO LS 1.6"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.4"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.6"
+                },
+                {
+                    "sub_model": "AVEO LT 1.6"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.6"
+                },
+                {
+                    "sub_model": "AVEO SS 1.6"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO Base 1.6"
+                },
+                {
+                    "sub_model": "AVEO LS 1.4"
+                },
+                {
+                    "sub_model": "AVEO LS 1.6"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.4"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.6"
+                },
+                {
+                    "sub_model": "AVEO LT 1.4"
+                },
+                {
+                    "sub_model": "AVEO LT 1.6"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.4"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.6"
+                },
+                {
+                    "sub_model": "AVEO SS 1.4"
+                },
+                {
+                    "sub_model": "AVEO SS 1.6"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.4"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.6"
+                },
+                {
+                    "sub_model": "AVEO LT 1.4"
+                },
+                {
+                    "sub_model": "AVEO LT 1.6"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.4"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.6"
+                },
+                {
+                    "sub_model": "AVEO SS 1.4"
+                },
+                {
+                    "sub_model": "AVEO SS 1.6"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO LS 1.4"
+                },
+                {
+                    "sub_model": "AVEO LT 1.4"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.4"
+                },
+                {
+                    "sub_model": "AVEO SS 1.4"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO LSX 1.4"
+                },
+                {
+                    "sub_model": "AVEO LT 1.4"
+                },
+                {
+                    "sub_model": "AVEO Lux 1.4"
+                }
+            ]
+        },
+        {
+            "model": "AVEO",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "AVEO Base 1.4"
+                },
+                {
+                    "sub_model": "AVEO LS 1.4"
+                },
+                {
+                    "sub_model": "AVEO LT 1.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 1.5"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 1.5"
+                },
+                {
+                    "sub_model": "CAPTIVA Premier 1.5"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 1.5"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 1.5"
+                },
+                {
+                    "sub_model": "CAPTIVA Premier 1.5"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.4"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LSX 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CAPTIVA",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPTIVA LS 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LS 2.4"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.0"
+                },
+                {
+                    "sub_model": "CAPTIVA LT 2.4"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA High Country 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Trail Boss 2.5"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA 4th of July Edition 2.5"
+                },
+                {
+                    "sub_model": "COLORA High Country 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Trail Boss 2.5"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA High Country 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA High Country 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA High Country 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA LTZ 2.8"
+                },
+                {
+                    "sub_model": "COLORA LTZ Z71 2.8"
+                },
+                {
+                    "sub_model": "COLORA Maxx 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA Cruise 3.0"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LS1 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Maxx 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA Base XL 3.0"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 2.5"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA Base XL 3.0"
+                },
+                {
+                    "sub_model": "COLORA LS 2.5"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 2.5"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "COLORA",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "COLORA Base XL 3.0"
+                },
+                {
+                    "sub_model": "COLORA LS 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT 3.0"
+                },
+                {
+                    "sub_model": "COLORA LT1 3.0"
+                },
+                {
+                    "sub_model": "COLORA Z71 3.0"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE Base 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE Base 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE Base 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE Base 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "CRUZE",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CRUZE Base 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.6"
+                },
+                {
+                    "sub_model": "CRUZE LS 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LT 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 1.8"
+                },
+                {
+                    "sub_model": "CRUZE LTZ 2.0"
+                }
+            ]
+        },
+        {
+            "model": "LUMINA",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LUMINA LTZ 3.6"
+                },
+                {
+                    "sub_model": "LUMINA LTZ 3.8"
+                },
+                {
+                    "sub_model": "LUMINA S 3.8"
+                }
+            ]
+        },
+        {
+            "model": "LUMINA",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LUMINA LTZ 3.6"
+                },
+                {
+                    "sub_model": "LUMINA LTZ 3.8"
+                },
+                {
+                    "sub_model": "LUMINA S 3.8"
+                }
+            ]
+        },
+        {
+            "model": "LUMINA",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LUMINA LTZ 3.6"
+                },
+                {
+                    "sub_model": "LUMINA LTZ 3.8"
+                },
+                {
+                    "sub_model": "LUMINA S 3.8"
+                }
+            ]
+        },
+        {
+            "model": "LUMINA",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LUMINA LTZ 3.6"
+                },
+                {
+                    "sub_model": "LUMINA LTZ 3.8"
+                },
+                {
+                    "sub_model": "LUMINA S 3.8"
+                }
+            ]
+        },
+        {
+            "model": "LUMINA",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LUMINA LTZ 3.8"
+                },
+                {
+                    "sub_model": "LUMINA S 3.8"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT Luxury 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT Luxury 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT Luxury 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT Luxury 1.6"
+                },
+                {
+                    "sub_model": "OPTRA Sport 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT Luxury 1.6"
+                },
+                {
+                    "sub_model": "OPTRA Sport 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.8"
+                },
+                {
+                    "sub_model": "OPTRA Sport 1.6"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA LS 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.8"
+                }
+            ]
+        },
+        {
+            "model": "OPTRA",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "OPTRA 1.6"
+                },
+                {
+                    "sub_model": "OPTRA LS 1.8"
+                },
+                {
+                    "sub_model": "OPTRA LT 1.8"
+                }
+            ]
+        },
+        {
+            "model": "SONIC",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "SONIC",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SONIC LS 1.4"
+                },
+                {
+                    "sub_model": "SONIC LT 1.4"
+                },
+                {
+                    "sub_model": "SONIC LT 1.6"
+                },
+                {
+                    "sub_model": "SONIC LTZ 1.6"
+                }
+            ]
+        },
+        {
+            "model": "SONIC",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SONIC LS 1.4"
+                },
+                {
+                    "sub_model": "SONIC LT 1.4"
+                },
+                {
+                    "sub_model": "SONIC LT 1.6"
+                },
+                {
+                    "sub_model": "SONIC LTZ 1.4"
+                },
+                {
+                    "sub_model": "SONIC LTZ 1.6"
+                }
+            ]
+        },
+        {
+            "model": "SONIC",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SONIC LS 1.4"
+                },
+                {
+                    "sub_model": "SONIC LT 1.4"
+                },
+                {
+                    "sub_model": "SONIC LTZ 1.4"
+                }
+            ]
+        },
+        {
+            "model": "SPIN",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SPIN LTZ 1.5"
+                }
+            ]
+        },
+        {
+            "model": "SPIN",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SPIN LTZ 1.5"
+                }
+            ]
+        },
+        {
+            "model": "SPIN",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SPIN LTZ 1.5"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.7"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "TRAILBLAZER",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TRAILBLAZER LT 2.5"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LT 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 1 2.8"
+                },
+                {
+                    "sub_model": "TRAILBLAZER LTZ 2.8"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA GL 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA LT 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA Sport 2.2"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA GL 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA LT 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA Sport 2.2"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA GL 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA LT 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA Sport 2.2"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA GL 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA LT 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA Sport 2.2"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                },
+                {
+                    "sub_model": "ZAFIRA LT 2.2"
+                }
+            ]
+        },
+        {
+            "model": "ZAFIRA",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ZAFIRA CD 1.8"
+                },
+                {
+                    "sub_model": "ZAFIRA CDX 2.2"
+                }
+            ]
+        }
+    ]
+}

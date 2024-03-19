@@ -1,0 +1,3229 @@
+
+{
+    "FORD": [
+        {
+            "model": "ASPIRE",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ASPIRE GL 1.3"
+                },
+                {
+                    "sub_model": "ASPIRE XL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "ASPIRE",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ASPIRE GL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "ASPIRE",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ASPIRE GL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "ASPIRE",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ASPIRE GL 1.3"
+                },
+                {
+                    "sub_model": "ASPIRE XL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "CAPRI",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAPRI XR2 1.6"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Ambiente 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Ambiente 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Ambiente 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Ambiente 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ECOSPORT",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ECOSPORT Ambiente 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Titanium 1.5"
+                },
+                {
+                    "sub_model": "ECOSPORT Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE LTD 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE LTD 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE 2.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE 2.0"
+                },
+                {
+                    "sub_model": "ESCAPE Centennial Edition 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLS 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 2.3"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE 2.0"
+                },
+                {
+                    "sub_model": "ESCAPE Centennial Edition 3.0"
+                },
+                {
+                    "sub_model": "ESCAPE XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "ESCAPE",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCAPE XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "ESCORT",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCORT Ghia 1.8"
+                },
+                {
+                    "sub_model": "ESCORT LX 1.8"
+                }
+            ]
+        },
+        {
+            "model": "ESCORT",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCORT Ghia 1.8"
+                },
+                {
+                    "sub_model": "ESCORT LX 1.8"
+                }
+            ]
+        },
+        {
+            "model": "ESCORT",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCORT Ghia 1.8"
+                },
+                {
+                    "sub_model": "ESCORT LX 1.8"
+                }
+            ]
+        },
+        {
+            "model": "ESCORT",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCORT Cosworth 2.0"
+                },
+                {
+                    "sub_model": "ESCORT Ghia 1.8"
+                },
+                {
+                    "sub_model": "ESCORT LX 1.8"
+                }
+            ]
+        },
+        {
+            "model": "ESCORT",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ESCORT Ghia 1.8"
+                },
+                {
+                    "sub_model": "ESCORT LX 1.8"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Sport 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Trend 2.0"
+                },
+                {
+                    "sub_model": "EVEREST WildTrak 2.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Trend 2.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Trend 2.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Trend 2.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "EVEREST Trend 2.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 3.2"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Titanium 2.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium 3.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 2.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 3.2"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST Titanium 2.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium 3.2"
+                },
+                {
+                    "sub_model": "EVEREST Titanium+ 3.2"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD Sport 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Cool White LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Cool White LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST Cool White LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST LTD 3.0"
+                },
+                {
+                    "sub_model": "EVEREST Mid 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST Mid 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST Mid 2.5"
+                },
+                {
+                    "sub_model": "EVEREST XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EVEREST",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EVEREST LTD 2.5"
+                },
+                {
+                    "sub_model": "EVEREST Velour 2.5"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER LTD 4.6"
+                },
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER LTD 4.6"
+                },
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER LTD 4.6"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "EXPLORER",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EXPLORER XLT 4.0"
+                }
+            ]
+        },
+        {
+            "model": "FESTIVA",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FESTIVA GL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "FESTIVA",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FESTIVA GL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "FESTIVA",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FESTIVA GL 1.3"
+                },
+                {
+                    "sub_model": "FESTIVA XL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "FESTIVA",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FESTIVA GL 1.3"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Ambiente 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Titanium 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Titanium 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Ambiente 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Sport Ultimate 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Sport+ 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Titanium 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Titanium 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Sport Ultimate 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Sport+ 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Titanium 1.0"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Sport 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Sport Ultimate 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Sport+ 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Style 1.4"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.5"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Sport+ 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Style 1.4"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FIESTA",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FIESTA Sport 1.6"
+                },
+                {
+                    "sub_model": "FIESTA Style 1.4"
+                },
+                {
+                    "sub_model": "FIESTA Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Sport 1.5"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Sport 1.5"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.5"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.6"
+                },
+                {
+                    "sub_model": "FOCUS Sport 1.5"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.6"
+                },
+                {
+                    "sub_model": "FOCUS Sport 1.5"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.6"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.6"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.6"
+                },
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Titanium+ 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.6"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Ambiente 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.8"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.8"
+                }
+            ]
+        },
+        {
+            "model": "FOCUS",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOCUS Finesse 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Ghia 1.8"
+                },
+                {
+                    "sub_model": "FOCUS Sport 2.0"
+                },
+                {
+                    "sub_model": "FOCUS Trend 1.8"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA Ghia 2.0"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA Ghia 2.0"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA Ghia 2.0"
+                },
+                {
+                    "sub_model": "GRANADA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA Ghia 2.0"
+                },
+                {
+                    "sub_model": "GRANADA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA Ghia 2.0"
+                },
+                {
+                    "sub_model": "GRANADA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "GRANADA",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GRANADA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER Tierra 1.6"
+                },
+                {
+                    "sub_model": "LASER Tierra 1.8"
+                },
+                {
+                    "sub_model": "LASER Tierra 2.0"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER Tierra 1.6"
+                },
+                {
+                    "sub_model": "LASER Tierra 1.8"
+                },
+                {
+                    "sub_model": "LASER Tierra 2.0"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER Tierra 1.6"
+                },
+                {
+                    "sub_model": "LASER Tierra 1.8"
+                },
+                {
+                    "sub_model": "LASER Tierra 2.0"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLX 1.6"
+                },
+                {
+                    "sub_model": "LASER Tierra 1.8"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER Flash 1.6"
+                },
+                {
+                    "sub_model": "LASER GLX 1.6"
+                },
+                {
+                    "sub_model": "LASER Ghia 1.8"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER Flash 1.6"
+                },
+                {
+                    "sub_model": "LASER GLX 1.6"
+                },
+                {
+                    "sub_model": "LASER Ghia 1.8"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLXi 1.8"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLXi 1.8"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLXi 1.6"
+                },
+                {
+                    "sub_model": "LASER XLi 1.3"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLX 1.6"
+                },
+                {
+                    "sub_model": "LASER GLXi 1.6"
+                },
+                {
+                    "sub_model": "LASER GLXi 1.8"
+                },
+                {
+                    "sub_model": "LASER GLi 1.6"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "LASER GLXi 1.6"
+                },
+                {
+                    "sub_model": "LASER XL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "LASER",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MONDEO GLX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MONDEO GLX 2.0"
+                },
+                {
+                    "sub_model": "MONDEO Verona 2.0"
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MONDEO GLX 2.0"
+                },
+                {
+                    "sub_model": "MONDEO Verona 2.0"
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MONDEO GLX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MONDEO",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MONDEO GLX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUSTANG EcoBoost 2.2"
+                },
+                {
+                    "sub_model": "MUSTANG GT 5.0"
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUSTANG",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 3.0"
+                },
+                {
+                    "sub_model": "RANGER Sport 2.0"
+                },
+                {
+                    "sub_model": "RANGER Stormtrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER FX4 MAX 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 3.0"
+                },
+                {
+                    "sub_model": "RANGER Sport 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER FX4 MAX 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.0"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Limited 2.0"
+                },
+                {
+                    "sub_model": "RANGER Raptor 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 2.2"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.2"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.2"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER WildTrak 3.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak II 3.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER WildTrak I 3.0"
+                },
+                {
+                    "sub_model": "RANGER WildTrak II 3.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                },
+                {
+                    "sub_model": "RANGER XLT Limited 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER WildTrak I 3.0"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                },
+                {
+                    "sub_model": "RANGER XLT Limited 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 3.0"
+                },
+                {
+                    "sub_model": "RANGER XLT Limited 3.0"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER Hi-Rider XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.9"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.9"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLS 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.9"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.9"
+                }
+            ]
+        },
+        {
+            "model": "RANGER",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "RANGER XL 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.5"
+                },
+                {
+                    "sub_model": "RANGER XLT 2.9"
+                }
+            ]
+        },
+        {
+            "model": "SCORPIO",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SCORPIO 2.9"
+                }
+            ]
+        },
+        {
+            "model": "SCORPIO",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SCORPIO 2.9"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA Ghia 2.0"
+                },
+                {
+                    "sub_model": "SIERRA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA Ghia 2.0"
+                },
+                {
+                    "sub_model": "SIERRA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA Ghia 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA Ghia 2.0"
+                },
+                {
+                    "sub_model": "SIERRA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SIERRA",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SIERRA Ghia 2.0"
+                },
+                {
+                    "sub_model": "SIERRA LX 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TELSTAR",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TELSTAR TX-4 1.8"
+                },
+                {
+                    "sub_model": "TELSTAR TX-4 2.0"
+                },
+                {
+                    "sub_model": "TELSTAR TX-5 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TELSTAR",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TELSTAR TX-4 1.8"
+                },
+                {
+                    "sub_model": "TELSTAR TX-4 2.0"
+                },
+                {
+                    "sub_model": "TELSTAR TX-5 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TELSTAR",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TELSTAR TX-4 1.8"
+                },
+                {
+                    "sub_model": "TELSTAR TX-5 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TELSTAR",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TELSTAR TX-4 2.0"
+                },
+                {
+                    "sub_model": "TELSTAR TX-5 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TELSTAR",
+            "manufacture": [
+                {
+                    "year": "1992 (2535)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TELSTAR TX-4 2.0"
+                },
+                {
+                    "sub_model": "TELSTAR TX-5 2.0"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT 2.7"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT 2.7"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT 2.7"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT 2.7"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT Ghia 4.0"
+                }
+            ]
+        },
+        {
+            "model": "TERRIT",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TERRIT Ghia 4.0"
+                }
+            ]
+        }
+    ]
+}

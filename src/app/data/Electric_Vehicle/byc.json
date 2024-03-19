@@ -1,0 +1,36 @@
+{
+    "BYC": [
+        {
+            "model": "ATTO3",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ATTO3 Extended Range 0.0"
+                },
+                {
+                    "sub_model": "ATTO3 Standard Range 0.0"
+                }
+            ]
+        },
+        {
+            "model": "ATTO3",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "ATTO3 Extended Range 0.0"
+                },
+                {
+                    "sub_model": "ATTO3 Standard Range 0.0"
+                }
+            ]
+        }
+    ]
+}

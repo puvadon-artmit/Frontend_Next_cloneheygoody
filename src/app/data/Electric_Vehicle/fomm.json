@@ -1,0 +1,69 @@
+{
+    "FOMM": [
+        {
+            "model": "FOMMONE",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOMMONE 0.0"
+                }
+            ]
+        },
+        {
+            "model": "FOMMONE",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOMMONE 0.0"
+                }
+            ]
+        },
+        {
+            "model": "FOMMONE",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOMMONE 0.0"
+                }
+            ]
+        },
+        {
+            "model": "FOMMONE",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOMMONE 0.0"
+                }
+            ]
+        },
+        {
+            "model": "FOMMONE",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FOMMONE 0.0"
+                }
+            ]
+        }
+    ]
+}

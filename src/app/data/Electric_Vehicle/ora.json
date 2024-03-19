@@ -1,0 +1,51 @@
+{
+    "ORA": [
+        {
+            "model": "GOODCAT",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": []
+        },
+        {
+            "model": "GOODCAT",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GOODCAT 400 Pro 0.0"
+                },
+                {
+                    "sub_model": "GOODCAT 500 Ultra 0.0"
+                },
+                {
+                    "sub_model": "GOODCAT GT 0.0"
+                }
+            ]
+        },
+        {
+            "model": "GOODCAT",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "GOODCAT 400 Pro 0.0"
+                },
+                {
+                    "sub_model": "GOODCAT 400 Tech 0.0"
+                },
+                {
+                    "sub_model": "GOODCAT 500 Ultra 0.0"
+                }
+            ]
+        }
+    ]
+}

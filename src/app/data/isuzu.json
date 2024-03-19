@@ -1,0 +1,1755 @@
+{
+    "ISUZU": [
+        {
+            "model": "CAMEO",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAMEO 2.5"
+                }
+            ]
+        },
+        {
+            "model": "CAMEO",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAMEO 2.5"
+                }
+            ]
+        },
+        {
+            "model": "CAMEO",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "CAMEO 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.8"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 1.8"
+                },
+                {
+                    "sub_model": "D-MAX S 1.8"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.8"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.8"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.8"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 1.8"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.8"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander Stealth 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander Stealth 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander Stealth 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander Stealth 3.0"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander Stealth 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX X-Series 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.8"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 1.9"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Z 1.9"
+                },
+                {
+                    "sub_model": "D-MAX Z 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Z 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Z 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 2.5"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                },
+                {
+                    "sub_model": "D-MAX Z 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 2.5"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX L 2.5"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX S 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Vcross 3.0"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SLX Platinum 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS GT 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SLX Platinum 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS GT 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 2.5"
+                },
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX Hi-Lander 3.0"
+                },
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SX 2.5"
+                }
+            ]
+        },
+        {
+            "model": "D-MAX",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "D-MAX LS 3.0"
+                },
+                {
+                    "sub_model": "D-MAX SL 2.5"
+                },
+                {
+                    "sub_model": "D-MAX SLX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "DRAEYE",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "DRAEYE",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "DRAEYE 2.5"
+                }
+            ]
+        },
+        {
+            "model": "DRAEYE",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "DRAEYE 2.5"
+                }
+            ]
+        },
+        {
+            "model": "DRAEYE",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "DRAEYE 2.5"
+                }
+            ]
+        },
+        {
+            "model": "DRAPOW",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "DRAPOW",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "DRAPOW Rodeo 3.0"
+                },
+                {
+                    "sub_model": "DRAPOW SLX 2.5"
+                },
+                {
+                    "sub_model": "DRAPOW SLX 3.0"
+                },
+                {
+                    "sub_model": "DRAPOW SLX LTD 3.0"
+                }
+            ]
+        },
+        {
+            "model": "DRAPOW",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "DRAPOW Rodeo 3.0"
+                },
+                {
+                    "sub_model": "DRAPOW SLX 2.5"
+                },
+                {
+                    "sub_model": "DRAPOW SLX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "FASZ",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FASZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "FASZ",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FASZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "FASZ",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FASZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "FASZ",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "FASZ 2.5"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 CHOIZ 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 CHOIZ 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 CHOIZ 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Super 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2009 (2552)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 S 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Super 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2008 (2551)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 S 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Super 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2007 (2550)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 S 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Activo 3.0"
+                },
+                {
+                    "sub_model": "MU-7 Primo 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MU-7",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MU-7 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX Active 1.8"
+                },
+                {
+                    "sub_model": "MUX Elegant 1.8"
+                },
+                {
+                    "sub_model": "MUX Elegant 3.0"
+                },
+                {
+                    "sub_model": "MUX Phantom Collection 1.8"
+                },
+                {
+                    "sub_model": "MUX Phantom Collection 3.0"
+                },
+                {
+                    "sub_model": "MUX Ultimate 1.8"
+                },
+                {
+                    "sub_model": "MUX Ultimate 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX Active 1.9"
+                },
+                {
+                    "sub_model": "MUX Elegant 1.9"
+                },
+                {
+                    "sub_model": "MUX Elegant 3.0"
+                },
+                {
+                    "sub_model": "MUX Luxury 1.9"
+                },
+                {
+                    "sub_model": "MUX Ultimate 1.9"
+                },
+                {
+                    "sub_model": "MUX Ultimate 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX Active 1.9"
+                },
+                {
+                    "sub_model": "MUX Elegant 1.9"
+                },
+                {
+                    "sub_model": "MUX Elegant 3.0"
+                },
+                {
+                    "sub_model": "MUX Luxury 1.9"
+                },
+                {
+                    "sub_model": "MUX Ultimate 1.9"
+                },
+                {
+                    "sub_model": "MUX Ultimate 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 1.9"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                },
+                {
+                    "sub_model": "MUX THE ONYX 1.9"
+                },
+                {
+                    "sub_model": "MUX THE ONYX 3.0"
+                },
+                {
+                    "sub_model": "MUX The ICONIC 1.9"
+                },
+                {
+                    "sub_model": "MUX The ICONIC 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 1.9"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                },
+                {
+                    "sub_model": "MUX The ICONIC 1.9"
+                },
+                {
+                    "sub_model": "MUX The ICONIC 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 1.9"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 1.9"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 2.5"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MUX 2.5"
+                },
+                {
+                    "sub_model": "MUX 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MUX",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": []
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.0"
+                },
+                {
+                    "sub_model": "TROOPER SE 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.0"
+                },
+                {
+                    "sub_model": "TROOPER SE 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.0"
+                },
+                {
+                    "sub_model": "TROOPER SE 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.0"
+                },
+                {
+                    "sub_model": "TROOPER SE 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER Limited 3.2"
+                },
+                {
+                    "sub_model": "TROOPER SE 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Sport 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER Limited 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Sport 3.2"
+                },
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Limited 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Sport 3.2"
+                },
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Limited 3.2"
+                },
+                {
+                    "sub_model": "TROOPER Sport 3.2"
+                },
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1995 (2538)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1994 (2537)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "TROOPER",
+            "manufacture": [
+                {
+                    "year": "1993 (2536)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "VEGA",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "TROOPER XS 3.2"
+                }
+            ]
+        },
+        {
+            "model": "VEGA",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VEGA 2.8"
+                },
+                {
+                    "sub_model": "VEGA 3.0"
+                },
+                {
+                    "sub_model": "VEGA LS 2.8"
+                }
+            ]
+        },
+        {
+            "model": "VEGA",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VEGA 2.8"
+                },
+                {
+                    "sub_model": "VEGA 3.0"
+                },
+                {
+                    "sub_model": "VEGA LS 2.8"
+                }
+            ]
+        },
+        {
+            "model": "VEGA",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VEGA 2.8"
+                }
+            ]
+        },
+        {
+            "model": "VEGA",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VEGA 2.8"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "2001 (2544)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX JE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX JL 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "2000 (2543)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX JE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX JL 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "1999 (2542)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX JE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX JL 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "1998 (2541)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX J-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX J-L 1.6"
+                },
+                {
+                    "sub_model": "VERTEX JE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX JL 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-L 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "1997 (2540)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX J-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-L 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SE 1.6"
+                },
+                {
+                    "sub_model": "VERTEX SL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "VERTEX",
+            "manufacture": [
+                {
+                    "year": "1996 (2539)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "VERTEX J-E 1.6"
+                },
+                {
+                    "sub_model": "VERTEX J-L 1.6"
+                },
+                {
+                    "sub_model": "VERTEX S-E 1.6"
+                }
+            ]
+        }
+    ]
+}

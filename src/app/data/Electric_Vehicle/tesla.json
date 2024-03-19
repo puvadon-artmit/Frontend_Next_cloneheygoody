@@ -1,0 +1,83 @@
+{
+    "TESLA": [
+        {
+            "model": "MODEL3",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MODEL3 Long Range 0.0"
+                },
+                {
+                    "sub_model": "MODEL3 Performance 0.0"
+                },
+                {
+                    "sub_model": "MODEL3 Standard Range 0.0"
+                }
+            ]
+        },
+        {
+            "model": "MODEL3",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MODEL3 Long Range 0.0"
+                },
+                {
+                    "sub_model": "MODEL3 Performance 0.0"
+                },
+                {
+                    "sub_model": "MODEL3 Standard Range 0.0"
+                }
+            ]
+        },
+        {
+            "model": "MODELY",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                },
+                {
+                    "sub_model": ""
+                }
+            ]
+        },
+        {
+            "model": "MODELY",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MODELY Long Range 0.0"
+                },
+                {
+                    "sub_model": "MODELY Performance 0.0"
+                },
+                {
+                    "sub_model": "MODELY Standard Range 0.0"
+                }
+            ]
+        }
+    ]
+}

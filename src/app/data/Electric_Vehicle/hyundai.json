@@ -1,0 +1,104 @@
+{
+    "HYUNDAI": [
+        {
+            "model": "IONIQ",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IONIQ 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IONIQ",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IONIQ 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IONIQ",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IONIQ 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IONIQ",
+            "manufacture": [
+                {
+                    "year": "2018 (2561)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IONIQ 0.0"
+                }
+            ]
+        },
+        {
+            "model": "KONA",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "KONA Electric SE 0.0"
+                },
+                {
+                    "sub_model": "KONA Electric SEL 0.0"
+                }
+            ]
+        },
+        {
+            "model": "KONA",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "KONA Electric SE 0.0"
+                },
+                {
+                    "sub_model": "KONA Electric SEL 0.0"
+                }
+            ]
+        },
+        {
+            "model": "KONA",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "KONA Electric SE 0.0"
+                },
+                {
+                    "sub_model": "KONA Electric SEL 0.0"
+                }
+            ]
+        }
+    ]
+}

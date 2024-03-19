@@ -1,0 +1,120 @@
+{
+    "BMW": [
+        {
+            "model": "I4",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "I4 M50 0.0"
+                },
+                {
+                    "sub_model": "I4 eDrive35 0.0"
+                }
+            ]
+        },
+        {
+            "model": "I4",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "I4 M50 0.0"
+                },
+                {
+                    "sub_model": "I4 eDrive40 M Sport 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX xDrive40 0.0"
+                },
+                {
+                    "sub_model": "IX xDrive50 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX xDrive40 0.0"
+                },
+                {
+                    "sub_model": "IX xDrive50 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX xDrive50 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX3",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX3 M Sport 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX3",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX3 M Sport 0.0"
+                }
+            ]
+        },
+        {
+            "model": "IX3",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "IX3 M Sport 0.0"
+                }
+            ]
+        }
+    ]
+}

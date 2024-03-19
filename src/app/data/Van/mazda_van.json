@@ -1,0 +1,70 @@
+{
+    "MAZDA": [
+        {
+            "model": "MPV",
+            "manufacture": [
+                {
+                    "year": "2006 (2549)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MPV MPV 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MPV",
+            "manufacture": [
+                {
+                    "year": "2005 (2548)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MPV MPV 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MPV",
+            "manufacture": [
+                {
+                    "year": "2004 (2547)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MPV MPV 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MPV",
+            "manufacture": [
+                {
+                    "year": "2003 (2546)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MPV MPV 3.0"
+                }
+            ]
+        },
+        {
+            "model": "MPV",
+            "manufacture": [
+                {
+                    "year": "2002 (2545)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "MPV MPV 3.0"
+                }
+            ]
+        }
+    ]
+}
+

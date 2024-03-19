@@ -1,0 +1,39 @@
+
+
+.sticky::before {
+    content: '';
+    position: absolute;
+    top: 30px;
+    right: 0;
+    background: linear-gradient(to bottom, transparent 0, #131313 100%);
+    width: 30px;
+    height: 5px;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+
+/* color */
+
+.blue,
+.yellow,
+.red {
+    position: relative;
+}
+
+.yellow {
+    background: linear-gradient(to left bottom, transparent 50%, #e87ef2 0) no-repeat 100% 0 / 30px 30px, linear-gradient(-135deg, transparent 21px, #e0dcfc 0);
+}
+
+.blue {
+    background: linear-gradient(to left bottom, transparent 50%, #62f0c3 0) no-repeat 100% 0 / 30px 30px, linear-gradient(-135deg, transparent 21px, #b5e7d0 0);
+}
+
+.red {
+    background: linear-gradient(to left bottom, transparent 50%, #f5c158 0) no-repeat 100% 0 / 30px 30px, linear-gradient(-135deg, transparent 21px, #ffd47c 0);
+}
+
+
+

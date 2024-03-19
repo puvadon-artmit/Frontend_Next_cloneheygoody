@@ -1,0 +1,153 @@
+{
+    "KIA": [
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL EV 0.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL EV 0.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2019 (2562)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL EV 0.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2017 (2560)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2016 (2559)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2015 (2558)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                },
+                {
+                    "sub_model": "SOUL 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2014 (2557)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                },
+                {
+                    "sub_model": "SOUL 2.0"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2013 (2556)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2012 (2555)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2011 (2554)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                }
+            ]
+        },
+        {
+            "model": "SOUL",
+            "manufacture": [
+                {
+                    "year": "2010 (2553)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "SOUL 1.6"
+                }
+            ]
+        }
+    ]
+}

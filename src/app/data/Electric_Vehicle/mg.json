@@ -1,0 +1,129 @@
+{
+    "MG": [
+        {
+            "model": "EP",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EP Plus 0.0"
+                }
+            ]
+        },
+        {
+            "model": "EP",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EP 0.0"
+                },
+                {
+                    "sub_model": "EP Plus 0.0"
+                }
+            ]
+        },
+        {
+            "model": "EP",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EP 0.0"
+                },
+                {
+                    "sub_model": "EP Plus 0.0"
+                }
+            ]
+        },
+        {
+            "model": "EP",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "EP 0.0"
+                }
+            ]
+        },
+        {
+            "model": "HSPHEV",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "HSPHEV D 1.5"
+                },
+                {
+                    "sub_model": "HSPHEV X 1.5"
+                }
+            ]
+        },
+        {
+            "model": "HSPHEV",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "HSPHEV 1.5"
+                },
+                {
+                    "sub_model": "HSPHEV D 1.5"
+                },
+                {
+                    "sub_model": "HSPHEV X 1.5"
+                }
+            ]
+        },
+        {
+            "model": "HSPHEV",
+            "manufacture": [
+                {
+                    "year": "2021 (2564)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "HSPHEV 1.5"
+                },
+                {
+                    "sub_model": "HSPHEV D 1.5"
+                },
+                {
+                    "sub_model": "HSPHEV X 1.5"
+                }
+            ]
+        },
+        {
+            "model": "HSPHEV",
+            "manufacture": [
+                {
+                    "year": "2020 (2563)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "HSPHEV 1.5"
+                }
+            ]
+        }
+    ]
+}

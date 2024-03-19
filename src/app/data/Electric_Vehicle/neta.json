@@ -1,0 +1,30 @@
+{
+    "NETA": [
+        {
+            "model": "NETAV",
+            "manufacture": [
+                {
+                    "year": "2023 (2566)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "NETAV 0.0"
+                }
+            ]
+        },
+        {
+            "model": "NETAV",
+            "manufacture": [
+                {
+                    "year": "2022 (2565)"
+                }
+            ],
+            "sub_model": [
+                {
+                    "sub_model": "NETAV 0.0"
+                }
+            ]
+        }
+    ]
+}
